@@ -12,6 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
        <h1> My name is meher </h1>
 	       <h1> Learning devops </h1>
+        <h1> today i have again deployed through tomcat </h1>
 
 	
 	
